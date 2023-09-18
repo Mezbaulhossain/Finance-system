@@ -51,7 +51,8 @@ document.getElementById('Calculate-btn').addEventListener('click',function(){
 
             document.getElementById('remaining-balance').innerText = remaining;
             document.getElementById('save-amount').innerText = savingAmount;
-        } else {
+        } 
+        else {
             alert('Sorry no Balance');
         }
 
