@@ -1,0 +1,19 @@
+body{
+    background-color: #afa8a8;
+    
+}
+section{
+    height: 100hv;
+   display: grid;
+   place-items: center;
+   background-color: #8f8d8d;
+    
+}
+
+
+.input-bg-color
+{
+    background-color:#f4eded;
+
+}
+
